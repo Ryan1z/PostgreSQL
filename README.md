@@ -1,1 +1,3 @@
 # PostgreSQL
+
+透過Swagger文件對PostgreSQL進行CRUD，DB的UI介面採用Pgadmin
